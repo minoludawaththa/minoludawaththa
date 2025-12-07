@@ -1,4 +1,4 @@
-<h1 align="center"> MINOL UDAWATHTHA <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b74cf55d-bbaa-4b79-8f51-96619dcec2f0" />
+<h1 align="center"> MINOL UDAWATHTHA <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/b74cf55d-bbaa-4b79-8f51-96619dcec2f0" />
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minoludawaththa&label=Profile%20views&color=0e75b6&style=flat" alt="minoludawaththa" /> </p>
 
